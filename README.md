@@ -12,7 +12,7 @@
 
 ## Demo
 
-[Project Demo](https://drive.google.com/file/d/12pEeFe1GwaNrjjKc02l72Z2ONxjabDv9/view?usp=sharing)]
+[Project Demo](https://drive.google.com/file/d/12pEeFe1GwaNrjjKc02l72Z2ONxjabDv9/view?usp=sharing)
 
 Click above link to watch a video demonstration of the project.
 
