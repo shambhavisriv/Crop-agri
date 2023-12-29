@@ -5,9 +5,8 @@
 - [Demo](#demo)
 - [Deployment](#deployment)
 - [Installation](#installation)
-- [Install dependencies for server](#install dependencies for server)
-- [Install dependencies for server](#install dependencies for server)
-- [Run the client & server with concurrently](#Run the client & server with concurrently)
+- [Install dependencies for server](#installdependenciesforserver)
+- [Run the client & server with concurrently](#Runtheclient&serverwithconcurrently)
 
 
 ## Demo
