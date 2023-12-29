@@ -1,11 +1,12 @@
-# crop-agri
+# Crop-Agri
 
 ## Table of Contents
 
 - [Demo](#demo)
 - [Deployment](#deployment)
 - [Installation](#installation)
-- [Install dependencies for server](#Install dependencies for server)
+- [Install dependencies for server](#install dependencies for server)
+- [Install dependencies for server](#install dependencies for server)
 - [Run the client & server with concurrently](#Run the client & server with concurrently)
 
 
