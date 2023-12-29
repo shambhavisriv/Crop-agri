@@ -1,0 +1,9 @@
+<mat-card class="crop-card-container">
+    <div class="crop-image-container">
+        <img [src]="crop.thumbnails[0]?.image" alt="{{ crop.crop_name }}" class="crop-image" />
+    </div>
+    <mat-card-content>
+        <div class="crop-name">{{ crop.crop_name }}</div>
+        <button mat-button color="primary" (click)="openModal.emit(crop)">View Details</button>
+    </mat-card-content>
+</mat-card>

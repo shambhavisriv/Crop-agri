@@ -1,0 +1,11 @@
+<div class="crop-list-container">
+    <div class="search-container">
+    <input [(ngModel)]="filterText" placeholder="Search crops" class="search-input"/>
+    </div>
+    <div class="card-container">
+        <div class="crop-card" *ngFor="let crop of paginatedCrops | filter: filterText">
+            <app-crop-card [crop]="crop" (openModal)="openModal($event)"></app-crop-card>
+        </div>
+    </div>
+    <mat-paginator [length]="crops.length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions" (page)="pageChanged($event)"></mat-paginator>
+</div>

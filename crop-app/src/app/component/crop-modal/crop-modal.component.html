@@ -1,0 +1,6 @@
+<div class="modal-overlay" (click)="closeModal()">
+    <div class="modal-content">
+        <img [src]="crop.thumbnails[0]?.image" alt="{{ crop.crop_name }}" />
+        <button (click)="closeModal()">Close</button>
+    </div>
+</div>
